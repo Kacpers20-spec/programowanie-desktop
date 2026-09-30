@@ -1,0 +1,7 @@
+Data Binding (https://learn.microsoft.com/en-us/dotnet/desktop/wpf/data/)
+
+Data binding to proces ktory pokazuje polaczenie miedzy UI aplikacji i dane ktore pokazuje
+
+jezeli wszystkie ustawienia przypisywania sa dobre i dane maja dobre powiadomienia,
+jak sie zmini dane to elementy przypisane do tego taz sie zmienia
+
