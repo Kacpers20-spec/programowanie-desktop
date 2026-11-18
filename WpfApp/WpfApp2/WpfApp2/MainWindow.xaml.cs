@@ -31,7 +31,7 @@ namespace WpfApp2
         }
         private void Btn_login(object sender, RoutedEventArgs e)
         {
-        MessageBox.Show("Twój login to: " + this.Vlogin);
+        MessageBox.Show("Twój login to: " + this.vLogin);
         }
     }
 }
