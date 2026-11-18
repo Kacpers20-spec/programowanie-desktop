@@ -29,5 +29,9 @@ namespace WpfApp2
             InitializeComponent();
             DataContext = this;
         }
+        private void Btn_login(object sender, RoutedEventArgs e)
+        {
+        MessageBox.Show("Twój login to: " + this.Vlogin);
+        }
     }
 }
