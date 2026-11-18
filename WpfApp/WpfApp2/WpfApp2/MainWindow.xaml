@@ -21,7 +21,7 @@
             <ColumnDefinition/>
         </Grid.ColumnDefinitions>
         <Label Grid.Row="0" Grid.Column="1"> Login</Label>
-        <TextBox Name="txLogin" Grid.Row="0" Grid.Column="2" Text="{Binding VLogin, UpdateSourceTrigger=PropertyChanged}"/>
+        <TextBox Name="txLogin" Grid.Row="0" Grid.Column="2" Text="{Binding vLogin, UpdateSourceTrigger=PropertyChanged}"/>
         <Label Grid.Row="1" Grid.Column="1" >Password</Label>
 
         <TextBox Name="txPass" Grid.Row="1" Grid.Column="2"/>
